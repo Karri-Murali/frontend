@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import "./backdrop.css";
+import './Backdrop.css';
 
 const BackDrop = (props) => {
   return ReactDOM.createPortal(
